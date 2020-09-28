@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package El_paquete_bonito;
+package Wpp;
 
 import javax.swing.*;
 import java.awt.event.*;
-import java.io.DataOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.net.*;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 /**
  *
  * @author Lenovo
